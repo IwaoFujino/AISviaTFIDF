@@ -16,7 +16,7 @@ Here is a list of all files.
 
 The files and folders are deployed as follows:  
 tfidfmodel  
-|
+|  
 |---aisdata---nari_dynamic.csv <--Download this data file from https://doi.org/10.5281/zenodo.1167595  
 |---codebook  
 |---codedocs  
