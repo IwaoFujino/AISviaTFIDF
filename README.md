@@ -17,20 +17,20 @@ Here is a list of all files.
 The files and folders are deployed as follows:
 tfidfmodel
 |
-|---aisdata---nari_dynamic.csv <--Download this data file from https://doi.org/10.5281/zenodo.1167595
-|---codebook
-|---codedocs
-|---csvdata
-|---onesailtrajectory
-|---pickledata
-|---picturedata
-|---prestep1-shipdatabymmsi.py
-|---prestep2--onesaildatabymmsi.py
-|---prestep3--onesaildatabymmsi-sailcountbyship.py
-|---prestep4-onesaildatabymmsi-alltrajectory.py
-|---experiment1-onesail-pq4.py
-|---experiment2-pq4-docsbysail-tfidf-similarity.py
-|---experiment3-pq4-docsbyship-tfidf-similarity.py
-|---experiment4-pq4-docsbysail-tfidf-kmeans.py
-|---experiment5-pq4-docsbyship-tfidf-dendrogram.py
-|---experiment6-pq4-docsbysail-tfidf-classification.py
+|---aisdata---nari_dynamic.csv <--Download this data file from https://doi.org/10.5281/zenodo.1167595  
+|---codebook  
+|---codedocs  
+|---csvdata  
+|---onesailtrajectory  
+|---pickledata  
+|---picturedata  
+|---prestep1-shipdatabymmsi.py  
+|---prestep2--onesaildatabymmsi.py  
+|---prestep3--onesaildatabymmsi-sailcountbyship.py  
+|---prestep4-onesaildatabymmsi-alltrajectory.py  
+|---experiment1-onesail-pq4.py  
+|---experiment2-pq4-docsbysail-tfidf-similarity.py  
+|---experiment3-pq4-docsbyship-tfidf-similarity.py  
+|---experiment4-pq4-docsbysail-tfidf-kmeans.py  
+|---experiment5-pq4-docsbyship-tfidf-dendrogram.py  
+|---experiment6-pq4-docsbysail-tfidf-classification.py  
