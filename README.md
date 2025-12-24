@@ -15,6 +15,8 @@ Here is a list of all files.
 10) experiment6-pq4-docsbysail-tfidf-classification.py: Classification of sails and report of evaluation result.  
 
 The files and folders are deployed as follows:  
+  
+  
 tfidfmodel  
 |  
 |---aisdata---nari_dynamic.csv <--Download this data file from https://doi.org/10.5281/zenodo.1167595  
